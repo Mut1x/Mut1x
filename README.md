@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Mut1x
-- 👀 I’m interested in computers, cybersecurity, web, fintech, cats and travels.
+- 👋 Hi, I’m @Mut1x (Matic)
+- 👀 I’m interested in computers, cybersecurity, web, Linux and Unix, cats and travels.
